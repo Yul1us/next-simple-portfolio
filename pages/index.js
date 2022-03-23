@@ -21,7 +21,7 @@ const Index = () => (
                             <p>
                                 A lo largo de 18 años he desempeñado varios cargos que tienen que ver con el desarrollo de software para las organizaciones que fui contratado, 
                                 A pesar de ser Ingeniero Electrónico en computación, lo que me apasiona es resolver problemas a través de aplicaciones de software, comencé con lenguajes como VB 6.0, VB.Net y actualmente me encuentro actualizando mi portafolio de aplicaciones a JavaScript debido a que puede ser usado tanto en el Frontend o en el Backend, 
-                                con esto estoy pasando de entonos Windows a entornos multiplataforma y en la web. También soy administrador de bases de datos MS SQL y tengo amplia experticia en otros motores de bases de datos.
+                                con esto estoy pasando de entornos Windows a entornos multiplataforma y en la web. También soy administrador de bases de datos MS SQL y tengo amplia experticia en otros motores de bases de datos.
                                 Dentro de las aplicaciones más relevantes que he desarrollado están sistemas: administrativos, contables, crediticios, nominas, sistemas de pesaje con balanzas camioneras, sistemas para el sector de la medicina, entre otros...
                             </p>
                             <a href='/hireme'>Hire me</a>
