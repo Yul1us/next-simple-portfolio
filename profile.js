@@ -63,7 +63,7 @@ export const experences = [
 export const proyects = [
     {
         name: "SIMON Admin",
-        description: "Es un Sistema de Software, creado con la finalidad de cubrir las necesidades básicas, de una empresa de tipo PYME (Pequeña y Mediana Empresa), SIMON Admin, cuanta con módulos para el control de: Compras, Ventas, Inventarios -> Kardex de los Ítems, Tesorería, Órdenes de compra, Presupuestos entre otro... Con este sistema puedes generar los libros de Compra y Venta, puedes emitir los archivos .Txt de retenciones IVA, Llevar el control de las retenciones de los impuestos municipales, generar el archivo .XML de ISLR.",
+        description: "Es un Sistema de Software, creado con la finalidad de cubrir las necesidades básicas, de una empresa de tipo PYME (Pequeña y Mediana Empresa), SIMON Admin, cuenta con módulos para el control de: Compras, Ventas, Inventarios -> Kardex de los Ítems, Tesorería, Órdenes de compra, Presupuestos entre otro... Con este sistema puedes generar los libros de Compra y Venta, puedes emitir los archivos .Txt de retenciones IVA, Llevar el control de las retenciones de los impuestos municipales, generar el archivo .XML de ISLR.",
         image: "SIMON_Admin_02.jpg "
         // image: "portfolio1.jpeg"
     },
