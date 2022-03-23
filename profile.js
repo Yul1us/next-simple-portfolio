@@ -35,7 +35,7 @@ export const skills = [{
 export const experences = [
     {
         title: 'Software Developers at Ideatech c.a.',
-        description: "Desarrollo de un ERP para organizaciones de la agroindustria el cual contempla, todos los formularios maestros y procesos de la Administración, Contabilización, Nomina procesos de distribución y producción, el sistema es actualmente conocido como SIMON ERP, y está siendo usado actualmente en la agroindustria venezolana por varias organizaciones, se puede conocer más en el sitio web: https://laideatech.net/simon/. Actualmente se esta desarrollando un sistema Frontend con usando ReactJS y JavaScript para la contabilidad SIMON y el Backend se está gestando en Nodejs, para ser usada desde la web, también se podrá integrar a cualquier sistema que pueda consumir una API REST.",
+        description: "Desarrollo de un ERP para organizaciones de la agroindustria el cual contempla, todos los formularios maestros y procesos de la Administración, Contabilización, Nomina procesos de distribución y producción, el sistema es actualmente conocido como SIMON ERP, y está siendo usado actualmente en la agroindustria venezolana por varias organizaciones, se puede conocer más en el sitio web: https://laideatech.net/simon/. Actualmente se esta desarrollando un sistema Frontend usando ReactJS y JavaScript para la contabilidad SIMON y el Backend se está gestando en Nodejs, para ser usada desde la web, también se podrá integrar a cualquier sistema que pueda consumir una API REST.",
         from: 2017,
         to: 'Actualidad'
     },
