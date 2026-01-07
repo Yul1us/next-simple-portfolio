@@ -19,10 +19,11 @@ const Index = () => (
                             <h1>Julio Aguero</h1>
                             <h3>FullStack Developer</h3>                            
                             <p>
-                                A lo largo de 18 años he desempeñado varios cargos que tienen que ver con el desarrollo de software para las organizaciones que fui contratado, 
-                                A pesar de ser Ingeniero Electrónico en computación, lo que me apasiona es resolver problemas a través de aplicaciones de software, comencé con lenguajes como VB 6.0, VB.Net y actualmente me encuentro actualizando mi portafolio de aplicaciones a JavaScript debido a que puede ser usado tanto en el Frontend o en el Backend, 
-                                con esto estoy pasando de entornos Windows a entornos multiplataforma y en la web. También soy administrador de bases de datos MS SQL y tengo amplia experticia en otros motores de bases de datos.
-                                Dentro de las aplicaciones más relevantes que he desarrollado están sistemas: administrativos, contables, crediticios, nominas, sistemas de pesaje con balanzas camioneras, sistemas para el sector de la medicina, entre otros...
+                                A lo largo de mas de 20 años he desempeñado varios cargos que tienen que ver con el desarrollo de software para las organizaciones empresariales para las que fui contratado, 
+                                A pesar de ser Ingeniero Electrónico en computación, lo que me apasiona es resolver problemas a través de aplicaciones de software. Comencé con lenguajes como VB 6.0, VB.Net, SQL y actualmente me encuentro en proyectos en la blockchain + WEB3 + WEB2 desarrollando aplicaciones con Solidity + JavaScript + C#, en 360°, Creando Tokens fungibles y no fungibles NFT en estandares ERC-20, ERC-721 entre otros, soluciones completas con Frontend modernas o en el Backend y API's. 
+                                Con esto estoy pasando de entornos Desktops a entornos multiplataforma y en la web2 y ahora con Smart Contract (DEFI), Tokenización a la Web3 en bases de datos descentralizadas. También soy administrador de bases de datos MS SQL con una amplia experticia en otros motores de bases de datos.
+                                Dentro de las aplicaciones más relevantes que he desarrollado están sistemas: administrativos, financieros, contables, crediticios, nóminas, sistemas de pesaje con balanzas camioneras, sistemas para el sector de la medicina, entre otros...
+								En fin, el plan actual es conquistar la WEB3 en el mundo Blockchain, bajo el nombre del proyecto SIMON 360 el cual es un ERP en el cual le he dedicado a crecer durante los últimos años.
                             </p>
                             <a href='/hireme'>Hire me</a>
                         </div>
