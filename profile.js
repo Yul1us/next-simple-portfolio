@@ -19,6 +19,10 @@ export const skills = [{
     percentage: '60'
 },
 {
+    skill: 'Solidity',
+    percentage: '80'
+},
+{
     skill: 'Nodejs',
     percentage: '60'
 },
@@ -33,6 +37,12 @@ export const skills = [{
 ]
 
 export const experences = [
+     {
+        title: 'Software Developers at Aquatech c.a.',
+        description: "Desarrollo de aplicaciones en Blockchain + WEB3 acopladas a SIMON ERP para organizaciones de la agroindustria el cual contempla, la tokenizacion de activos del mundo real (RWA) Terrenos cultivables Fincas - Lotes, Centros de Costos Agrícolas representandos en Tokens usando Smart Contract en Solidity, procesos de financiamientos con paerticipacion de actores tales como Banca, Casas Comerciales, Silos de Almacenamiento, agricultores entre otros,  distribución, cosecha y producción de cultivos representados en tokens ERC-20, ERC-721 tales como Arroz, Maíz, Sorgo, Frijol ..., el sistema es actualmente conocido como SIMON ERP + W3, y está siendo usado actualmente en la agroindustria venezolana/Panameña por varias organizaciones, se puede conocer más en el sitio web: https://simonerp.net/ . Actualmente se esta desarrollando mejoras en los sistemas WEB3 + WEB2 un sistema Frontend usando asp.net y JavaScript ( https://simonerp.net/Apps/Simon360/ ) para la SIMON Legacy y el Backend se está gestando en API's en C#, para ser usada desde la web, también se podrá integrar a cualquier sistema que pueda consumir una API REST.",
+        from: 2020,
+        to: 'Actualidad'
+    },
     {
         title: 'Software Developers at Ideatech c.a.',
         description: "Desarrollo de un ERP para organizaciones de la agroindustria el cual contempla, todos los formularios maestros y procesos de la Administración, Contabilización, Nomina procesos de distribución y producción, el sistema es actualmente conocido como SIMON ERP, y está siendo usado actualmente en la agroindustria venezolana por varias organizaciones, se puede conocer más en el sitio web: https://laideatech.net/simon/. Actualmente se esta desarrollando un sistema Frontend usando ReactJS y JavaScript para la contabilidad SIMON y el Backend se está gestando en Nodejs, para ser usada desde la web, también se podrá integrar a cualquier sistema que pueda consumir una API REST.",
